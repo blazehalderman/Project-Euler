@@ -29,7 +29,7 @@ Visit the [Node.js](https://nodejs.org/en/) website and follow the download and 
 
 ## Built With
 ```
-[NodeJS](https://nodejs.org/en/) - The Javascript framework used
+[NodeJS] - The Javascript framework used
 ```
 
 ## Authors
