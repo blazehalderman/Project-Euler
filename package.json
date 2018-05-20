@@ -1,0 +1,19 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.",
+  "main": "3_and_5_Multiples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazehalderman/Project-Euler.git"
+  },
+  "author": "Blaze Halderman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blazehalderman/Project-Euler/issues"
+  },
+  "homepage": "https://github.com/blazehalderman/Project-Euler#readme"
+}
