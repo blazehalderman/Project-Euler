@@ -21,7 +21,7 @@ Visit the [!Node.js](https://nodejs.org/en/) website and follow the download and
 
 ## Running the Problems
 
-```python
+```javascript
 1. Navigate to the file which you wish to run - example: problem1/3_and_5_Multiples.js
 2. Run npm --silent start
 3. outputs answer!
@@ -38,4 +38,4 @@ Visit the [!Node.js](https://nodejs.org/en/) website and follow the download and
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
