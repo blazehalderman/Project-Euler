@@ -21,7 +21,7 @@ Visit the [!Node.js](https://nodejs.org/en/) website and follow the download and
 
 ## Running the Problems
 
-```javascript
+```
 1. Navigate to the file which you wish to run - example: problem1/3_and_5_Multiples.js
 2. Run npm --silent start
 3. outputs answer!
