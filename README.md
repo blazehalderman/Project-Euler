@@ -17,7 +17,7 @@ Node.js
 
 ### Installing
 
-Visit the [!Node.js](https://nodejs.org/en/) website and follow the download and installation tutorial under downloads.
+Visit the [Node.js](https://nodejs.org/en/) website and follow the download and installation tutorial under downloads.
 
 ## Running the Problems
 
@@ -29,7 +29,7 @@ Visit the [!Node.js](https://nodejs.org/en/) website and follow the download and
 
 ## Built With
 ```
-* [NodeJS](https://nodejs.org/en/) - The Javascript framework used
+[NodeJS](https://nodejs.org/en/) - The Javascript framework used
 ```
 
 ## Authors
