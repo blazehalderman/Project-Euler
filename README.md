@@ -19,7 +19,7 @@ Node.js
 
 Visit the [Node.js](https://nodejs.org/en/) website and follow the download and installation tutorial under downloads.
 
-## Running the Problems
+## Running the Programs
 
 ```
 1. Navigate to the file which you wish to run - example: problem1/3_and_5_Multiples.js
