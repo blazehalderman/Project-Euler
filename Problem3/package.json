@@ -1,0 +1,11 @@
+{
+  "name": "problem3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "largest-prime-factor.js",
+  "scripts": {
+    "start": "node largest-prime-factor.js"
+  },
+  "author": "Blaze Halderman",
+  "license": "ISC"
+}
