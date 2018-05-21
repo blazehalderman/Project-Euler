@@ -1,0 +1,11 @@
+{
+  "name": "problem2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "even_fibonacci_numbers.js",
+  "scripts": {
+    "start": "node even_fibonacci_numbers.js"
+  },
+  "author": "Blaze Halderman",
+  "license": "ISC"
+}
