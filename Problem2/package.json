@@ -2,9 +2,9 @@
   "name": "problem2",
   "version": "1.0.0",
   "description": "",
-  "main": "even_fibonacci_numbers.js",
+  "main": "even-fibonacci-numbers.js",
   "scripts": {
-    "start": "node even_fibonacci_numbers.js"
+    "start": "node even-fibonacci-numbers.js"
   },
   "author": "Blaze Halderman",
   "license": "ISC"
